@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hola, soy David Ricardo Peña 👋<br><br><br>
+Hola, soy David Ricardo Peña 👋<br><br>
 
 # 🚀 Desarrollador Full Stack | Tecnólogo en Análisis y Desarrollo de Software<br><br>
 
