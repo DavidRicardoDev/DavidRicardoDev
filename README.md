@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hola, soy David Ricardo Peña 👋<br><br>![Banner](https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=David%20Ricardo%20Peña&fontSize=70&animation=fadeIn)<br> tengo 23 años, tecnologo de analisis y desarrollo de software, egresado del SENA (servicio nacional de aprendizaje)<br><br><br><br>Actualmente me especializo en desarrollo web full stack usando react, vue, vite, tailwind o material ui y el desarrollo de api con javascript y express.<br><br><br><br>Aprendizaje de forma autonoma, aumentando las tecnologias como python y typesrcipt.<br><br><br><br>Actualmente desarrollando proyectos propios para ejercer mis conocinientos, pero buscando proyecto y trabajo.
+Hola, soy David Ricardo Peña 👋<br> tengo 23 años, tecnologo de analisis y desarrollo de software, egresado del SENA (servicio nacional de aprendizaje)<br><br><br><br>Actualmente me especializo en desarrollo web full stack usando react, vue, vite, tailwind o material ui y el desarrollo de api con javascript y express.<br><br><br><br>Aprendizaje de forma autonoma, aumentando las tecnologias como python y typesrcipt.<br><br><br><br>Actualmente desarrollando proyectos propios para ejercer mis conocinientos, pero buscando proyecto y trabajo.
 
 
 ## 🌐 Socials:
