@@ -10,7 +10,7 @@ Soy un desarrollador de 23 años apasionado por construir soluciones web escalab
 - 🐍 **Aprendizaje Autónomo:** Expandiendo mis horizontes hacia el ecosistema de **Python**.
 - 💻 **Proyectos Propios:** Desarrollando aplicaciones Full Stack para demostrar mis capacidades técnicas.
 - 🔍 **Búsqueda Activa:** Abierto a retos profesionales como Desarrollador Web / Full Stack.
-
+- 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/davidricardopena/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact.davidpenadev@gmail.com)
 
