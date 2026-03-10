@@ -21,6 +21,8 @@ Soy un desarrollador de 23 años apasionado por construir soluciones web escalab
 ![](https://nirzak-streak-stats.vercel.app/?user=DavidRicardoDev&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidRicardoDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=tokyonight)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
