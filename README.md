@@ -1,9 +1,13 @@
 # 💫 About Me:
-Hola, soy David Ricardo Peña 👋<br><br> ### 🚀 Desarrollador Full Stack | Tecnólogo en Análisis y Desarrollo de Software
+Hola, soy David Ricardo Peña 👋<br><br><br> ### 🚀 Desarrollador Full Stack | Tecnólogo en Análisis y Desarrollo de Software<br><br>
 
 Soy un desarrollador de 23 años apasionado por construir soluciones web escalables y eficientes. Egresado del **SENA**, me enfoco en crear experiencias de usuario excepcionales y arquitecturas de backend sólidas. Actualmente, dedico mi tiempo a perfeccionar mis habilidades y a desarrollar proyectos propios mientras busco mi próxima oportunidad profesional.
 
----<br><br><br><br>Actualmente me especializo en desarrollo web full stack usando react, vue, vite, tailwind o material ui y el desarrollo de api con javascript y express.<br><br><br><br>Aprendizaje de forma autonoma, aumentando las tecnologias como python y typesrcipt.<br><br><br><br>Actualmente desarrollando proyectos propios para ejercer mis conocinientos, pero buscando proyecto y trabajo.
+# 🎯 En qué estoy trabajando
+- 🔭 **Explorando:** Actualmente profundizando en **TypeScript** para robustecer mi código.
+- 🐍 **Aprendizaje Autónomo:** Expandiendo mis horizontes hacia el ecosistema de **Python**.
+- 💻 **Proyectos Propios:** Desarrollando aplicaciones Full Stack para demostrar mis capacidades técnicas.
+- 🔍 **Búsqueda Activa:** Abierto a retos profesionales como Desarrollador Web / Full Stack.
 
 
 ## 🌐 Socials:
